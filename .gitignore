@@ -18,3 +18,9 @@ Icon
 
 ### SVN ###
 .svn/
+
+### Fish ###
+link/.config/fish/*
+!link/.config/fish/config.fish
+!link/.config/fish/functions
+
