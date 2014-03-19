@@ -23,4 +23,4 @@ Icon
 link/.config/fish/*
 !link/.config/fish/config.fish
 !link/.config/fish/functions
-
+link/.config/fish/functions/server-aliases.fish
